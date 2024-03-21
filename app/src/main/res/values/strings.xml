@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PAN_Verfication</string>
+    <string name="pan_details">Providing PAN &amp; Date of birth helps us find and \nfetch your KYC from a central registry by the\n Government of India.</string>
+</resources>
